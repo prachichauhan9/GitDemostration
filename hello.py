@@ -1,2 +1,2 @@
 class Hello:
-    print ("Hello")
+    print ("Hello World!")
